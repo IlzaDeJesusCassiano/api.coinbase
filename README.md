@@ -1,2 +1,2 @@
 # api.coinbase
-http://www.coinbase.com.br
+https://www.coinbase.com.br
